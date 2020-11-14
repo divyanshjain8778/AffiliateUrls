@@ -1,5 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .brandname {
   font-family: monospace;
   font-size: 24px;
   margin: 2rem;
+}
+.Linksproducts {
+  margin: 2rem;
+}
+#label {
+  margin: 5px;
 }
